@@ -1,4 +1,4 @@
-# NI \o/ - Neutrino für PC+PI+ Phones+Tabets (arm64), mit Termux+proot-ubuntu+x11 - z.b. T-Phone 2 Pro (funktioniert 100%) - Wlan noch in Beta bei Smartphons - lan Adapter funktioniert ! #
+# NI \o/ - Neutrino für PC+PI+ Phones+Tablets (arm64), mit Termux+proot-ubuntu+x11 - z.b. T-Phone 2 Pro (funktioniert 100%) - Wlan noch in Beta bei Smartphons - lan Adapter funktioniert ! #
 
 ## 1) Repository clonen
 ```bash
