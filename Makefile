@@ -1,17 +1,19 @@
 ################################################################################
 #
 #
-#100% Kompitable mit Proot #Termux + xfce4 - Generic PC #build ! Fehlende Debs Bitte #selber nach installieren !! #Erfolgreich gebaut mit T #Phone 2 Pro ####
+# 100% Kompitable mit Proot Termux + xfce4 - Generic PC build ! 
+# Fehlende Debs Bitte #selber nach installieren !! 
+# Erfolgreich gebaut mit T-Phone 2 Pro !
 #
 #
 # Bilder : Finish ! 
 #
-#https://www.dropbox.com/scl/fi/liccmvcgrekpdi89kyjp3/Ni-T-Phone-2-Pro-Bilder.zip?rlkey=6q1ia008tsw75r65nlw90p6rt&st=js4wau66&dl=1 #####
+# https://www.dropbox.com/scl/fi/liccmvcgrekpdi89kyjp3/Ni-T-Phone-2-Pro-Bilder.zip?rlkey=6q1ia008tsw75r65nlw90p6rt&st=js4wau66&dl=1 
 #
-# ####https://github.com/LinuxDroidMaster/Termux-Desktops/blob/main/Documentation/proot/ubuntu_proot.md #####
+# https://github.com/LinuxDroidMaster/Termux-Desktops/blob/main/Documentation/proot/ubuntu_proot.md 
 #
 #
-####https://github.com/LinuxDroidMaster/Termux-Desktops/blob/main/Documentation/proot/debian_proot.md#installing-desktops ####
+# https://github.com/LinuxDroidMaster/Termux-Desktops/blob/main/Documentation/proot/debian_proot.md#installing-desktops
 #
 #
 # Makefile for building native ni-libstb-hal and ni-neutrino
@@ -30,7 +32,7 @@
 # Prerequisits
 # ------------
 #
-#sudo apt-get install build-essential ccache git make subversion patch gcc bison 	flex texinfo automake libtool ncurses-dev pkg-config libavformat-dev libswscale-dev libswresample-dev libopenthreads-dev freeglut3-dev libglew-dev libao-dev libid3tag0-dev libmad0-dev libogg-dev libfreetype6-dev libsigc++-2.0-dev libjpeg-dev libcurl4-openssl-dev libgif-dev libreadline6-dev libvorbis-dev libgstreamer1.0-dev libgstreamer-plugins-base1.0-dev#
+# sudo apt-get install build-essential ccache git make subversion patch gcc bison flex texinfo automake libtool ncurses-dev pkg-config libavformat-dev libswscale-dev libswresample-dev libopenthreads-dev freeglut3-dev libglew-dev libao-dev libid3tag0-dev libmad0-dev libogg-dev libfreetype6-dev libsigc++-2.0-dev libjpeg-dev libcurl4-openssl-dev libgif-dev libreadline6-dev libvorbis-dev libgstreamer1.0-dev libgstreamer-plugins-base1.0-dev
 #
 # Neutrino dependencies for Debian
 # --------------------------------
