@@ -323,7 +323,7 @@ clean-all:
 
 # ------------------------------------------------------------------------------
 
-FFMPEG_VERSION = 4.4.2
+FFMPEG_VERSION = 7.1.1
 FFMPEG_DIR = ffmpeg-$(FFMPEG_VERSION)
 FFMPEG_SOURCE = ffmpeg-$(FFMPEG_VERSION).tar.xz
 FFMPEG_SITE = http://www.ffmpeg.org/releases
@@ -378,7 +378,7 @@ libdvbsi: $(ARCHIVE_DIR)/$(LIBDVBSI_SOURCE) | $(BUILD_DIR) $(DEPS_DIR) $(TARGET_
 
 # ------------------------------------------------------------------------------
 
-LUA_VERSION = 5.2.4
+LUA_VERSION = 5.4.7
 LUA_DIR = lua-$(LUA_VERSION)
 LUA_SOURCE = lua-$(LUA_VERSION).tar.gz
 LUA_SITE = https://www.lua.org/ftp
