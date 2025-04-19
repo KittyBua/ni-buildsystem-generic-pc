@@ -1,4 +1,4 @@
-# NI \o/ - Neutrino für PC bauen #
+# NI \o/ - Neutrino für PC +PI + Phones mit termux z.b. T Phone 2 Pro bauen (funktioniert 100%) #
 
 ## 1) Repository clonen
 ```bash
