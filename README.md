@@ -1,4 +1,6 @@
 # NI \o/ - Neutrino für PC+PI+ Phones+Tablets (arm64), mit Termux+proot-ubuntu+x11 - z.b. T-Phone 2 Pro (funktioniert 100%) - Wlan noch in Beta bei Smartphons - lan Adapter funktioniert !  Siehe auch Makefile ! Deps,.. #
+Für Android Boxen mit armv7 - https://github.com/Yoshi1981/ni-buildsystem-generic-box
+#
 
 ## 1) Repository clonen
 ```bash
