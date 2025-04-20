@@ -308,7 +308,7 @@ clean-all:
 
 # ------------------------------------------------------------------------------
 
-FFMPEG_VERSION = 4.4.2
+FFMPEG_VERSION = 5.0.1
 FFMPEG_DIR = ffmpeg-$(FFMPEG_VERSION)
 FFMPEG_SOURCE = ffmpeg-$(FFMPEG_VERSION).tar.xz
 FFMPEG_SITE = http://www.ffmpeg.org/releases
