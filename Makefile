@@ -196,7 +196,7 @@ $(TARGET_DIR): | $(SKEL_DIR)
 LIBSTB_HAL_VERSION = master
 LIBSTB_HAL_DIR = ni-libstb-hal
 LIBSTB_HAL_SOURCE = ni-libstb-hal
-LIBSTB_HAL_SITE = https://github.com/neutrino-images
+LIBSTB_HAL_SITE = https://github.com/Yoshi1981
 
 LIBSTB_HAL_DEPENDENCIES = ffmpeg
 
