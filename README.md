@@ -2,8 +2,8 @@
 
 ## 1) Repository clonen
 ```bash
-git clone https://github.com/Yoshi1981/ni-buildsystem-generic-pc.git
-cd ni-buildsystem-generic-pc
+git clone https://github.com/Yoshi1981/ni-buildsystem-generic-box.git
+cd ni-buildsystem-generic-box
 ```
 
 ## 2) Prerequisites und Dependencies erfüllen.
