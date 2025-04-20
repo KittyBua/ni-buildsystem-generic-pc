@@ -1,6 +1,8 @@
 # NI \o/ - Neutrino für Android Boxen armv7 bauen - Termux mit Ubuntu dazu für den Bau ! 
 https://www.dropbox.com/scl/fi/hh8ndoz36tckqstmydnim/termuxandroid-Ubu-ni.zip?rlkey=440ydark1cx0nmy9btjusvzuf&st=i8nc8v3p&dl=1
 #
+Für armv64 Smartphone pc etc - https://github.com/KittyBua/ni-buildsystem-generic-pc
+#
 
 ## 1) Repository clonen
 ```bash
